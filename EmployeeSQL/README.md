@@ -28,5 +28,3 @@ The tasks for this project include:
 3. Folder containing Analyzed Data (7 CSV files that generated the results from the tasks)
 4. Folder containing Schemas (2 SQL Source Files that include the coding to generate the tables and analyze the raw data)
 
-![Alt text](image-1.png)
- 
